@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="floor_spin_1">
+        <item>Select</item>
+        <item>test1</item>
+        <item>test2</item>
+    </string-array>
+    <string-array name="floor_spin_2">
+        <item>Select</item>
+        <item>test3</item>
+        <item>test4</item>
+    </string-array>
+    <string-array name="floor_spin_ini">
+        <item>Select</item>
+    </string-array>
+</resources>

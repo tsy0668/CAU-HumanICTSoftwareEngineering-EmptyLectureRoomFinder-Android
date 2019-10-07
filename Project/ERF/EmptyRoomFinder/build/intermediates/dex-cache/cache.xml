@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/aquashdw/.android/build-cache/13234bafeb4d45125a64c03b80a83d719050f3dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/aquashdw/AndroidStudioProjects/EmptyRoomFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d562acd028808cd129621b83601408898d8e3665/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aquashdw/.android/build-cache/5cadfe404a201fcfe920fb1396a36d9eb65fc28d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/aquashdw/AndroidStudioProjects/EmptyRoomFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec47f0cadea39d1c924588fcdb974b4eca609f7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aquashdw/AndroidStudioProjects/EmptyRoomFinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/aquashdw/AndroidStudioProjects/EmptyRoomFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6dba6ae4cc29bbaca9760e61d5042a70538f411e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aquashdw/.android/build-cache/f0152d6b2c4844d5a6eb23fc2cd3670f902d8d9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/aquashdw/AndroidStudioProjects/EmptyRoomFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7054885dfd48dfb4a9fc59428ee8755edb75783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aquashdw/AndroidStudioProjects/EmptyRoomFinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3413b21a4d7f8190b4a87e8d27fd12820f4b2e8">
+        <dex dex="/home/aquashdw/AndroidStudioProjects/EmptyRoomFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_333cad882c905309c9a7ddc828cb46f224099833/classes.dex" />
+    </item>
+
+</items>
